@@ -1,0 +1,22 @@
+{
+  "name": "wow-singleton",
+  "version": "v1.0.0",
+  "description": "Make the WOW.js to singleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evabioz/wow-singleton.git"
+  },
+  "author": "Dennis Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evabioz/wow-singleton/issues"
+  },
+  "homepage": "https://github.com/evabioz/wow-singleton#readme",
+  "dependencies": {
+    "wowjs": "^1.1.3"
+  }
+}
